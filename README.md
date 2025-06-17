@@ -10,7 +10,7 @@ This project was created in 2022 using Tableau Desktop to visualize global touri
 
 ## 📁 Files
 
-- `Tourism_Insights.twbx` — Tableau Packaged Workbook (created with Tableau Desktop)
+- `tourismtableauproject.twbx` — Tableau Packaged Workbook (created with Tableau Desktop)
 - `/screenshots/` — preview images of the dashboard
 
 > **Note:** The workbook may not open in Tableau Public due to Pro-only features. It is included here for portfolio reference.
